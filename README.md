@@ -18,8 +18,8 @@ Interpretability is partially important.
 Source: https://www.kaggle.com/c/quora-question-pairs#evaluation
 
 - Metric(s):
-  log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
-  Binary Confusion Matrix
+  - log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
+  - Binary Confusion Matrix
 - Sources/Useful links
 - Source : https://www.kaggle.com/c/quora-question-pairs
 
